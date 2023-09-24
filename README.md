@@ -29,7 +29,7 @@ This plugin detects vehicles that gets stuck and deletes them.
 
 ---
 # Discord
-On our [Discord](https://discord.io/dokuscore) you can find all Information about this <br>
+On our [Discord](https://discord.com/invite/ksQRq25Hcz) you can find all Information about this<br>
 project, feel free to join. Here you can also interact with other playing and testing<br>
 the Core, as well as giving your suggestions and opinions.
 
